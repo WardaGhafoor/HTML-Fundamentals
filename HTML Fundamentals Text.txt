@@ -1,14 +1,16 @@
-1 - Introduction
-      World Wide Web was created by Tim Berners-Lee and the Web, the World Wide Web is actually made up of a few
-      different things. Our focus here is HTML.
-      
-      And HTML is a language that we use to create documents that we want to share across the World Wide Web or
-      more appropriately across the Internet. We want to share these documents using URI/URL network topology. 
-      
-      Another piece of that is the notion of universal resource identifying or universal resource locater, the
-      URI or URL. We have an address of a particular HTML document.That's a big piece of the Web is being able
-      to go out and use an address to get a particular document that we're interested in.
-      
-      And finally if we watch our HTML document we have HTTP protocol, hypertext transfer protocol which is all
-      about taking those documents and exchange them at layers on top of protocols and provide us a language for 
-      exchanging these documents. So the HTML hypertext markup language, http hypertext transfer protocol.
+2 - HTML documents
+      doctype-declaration of standards compliance 
+      A doctype is a declaration in your document of which version of the HTML standard you're following.
+
+
+      html-Root element
+      It encloses all the other elements and is therefore the sole parent element to all the other elements.
+
+
+      head-Document metadat
+      Meta elements are typically used to specify page description, keywords, author of the document.
+      Used by browsers and search engines.
+
+
+      body-Document data
+      Displayed to the users by the client browser.
