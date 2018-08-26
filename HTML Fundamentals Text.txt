@@ -1,0 +1,16 @@
+2 - HTML documents
+      doctype-declaration of standards compliance 
+      A doctype is a declaration in your document of which version of the HTML standard you're following.
+
+
+      html-Root element
+      It encloses all the other elements and is therefore the sole parent element to all the other elements.
+
+
+      head-Document metadat
+      Meta elements are typically used to specify page description, keywords, author of the document.
+      Used by browsers and search engines.
+
+
+      body-Document data
+      Displayed to the users by the client browser.
