@@ -1,0 +1,17 @@
+1 - Introduction
+       World Wide Web is created by Tim Berners-Lee and the Web, the World Wide Web is actually made up of
+       a few different things.Our focus here is HTML.
+
+
+       And HTML is the language that we use to create documents that we want to share across the World Wide
+       Web or more appropriately across the internet.
+
+
+       Another piece of that is the notion of a universal resource identifying or universal resource locator,
+       the URI or URL. We have an address for a particular HTML document.That's a big piece of the Web is 
+       being able to go out and use an address to get a particular document that we are interested in.
+
+
+       And finally if we watch our HTML document we have the HTTP protocol, hypertext transfer protocol which
+       is all about taking those documents and exchanging them at layers on top of the internet protocols and 
+       provides us a language for exchanging these documents.
