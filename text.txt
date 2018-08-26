@@ -1,6 +1,13 @@
-There are many different standards out there we can follow or that we can use in terms of 
-document type declarations. Even for HTML 4 we have a strict, a transitional and a frame
-set. Likewise for XHTML. The strict means we're going to follow only those items that are actually in
-the standard and have not been deprecated. So there are several items that have been deprecated in 
-there that you'll want to avoid if you're following the strict whereas the transitional or loose means
-that you're following it but you also might be using some of those items that have been deprecated.
+        <head> - metadata
+
+    <title> -The title of the document.
+
+    <meta> - Includes metadata such as keywords.
+
+    <script> - Includes script for interactive pages(JS).
+
+    <style> - Define style to apply body elements(CSS).
+
+    <link> - Directive indicating related documents.
+
+    <base> - Define base address for all realtive links on page.
