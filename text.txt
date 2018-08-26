@@ -1,13 +1,13 @@
-        <head> - metadata
+           <body> - data
+    
+    Headings
 
-    <title> -The title of the document.
+    Text
 
-    <meta> - Includes metadata such as keywords.
+    Links
 
-    <script> - Includes script for interactive pages(JS).
+    Lists
 
-    <style> - Define style to apply body elements(CSS).
+    Tables
 
-    <link> - Directive indicating related documents.
-
-    <base> - Define base address for all realtive links on page.
+    Images/Objects
