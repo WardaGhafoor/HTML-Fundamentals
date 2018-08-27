@@ -1,0 +1,12 @@
+Introduction:
+    The module is about text elements. When you think about HTML documents, primarily they were focused on 
+    text when originally intended. Now, today when you go to a website you end up seeing a lot of images 
+    and flash videos and all sorts of things that aren't textural. But the focus of HTML was originally 
+    documents, and document text. So we'll be talking about things such as headings, but also things like 
+    block and inline elements, or this notion of "As I'm adding things to the document, how are they going 
+    to be handled and rendered within the document?" Some of those things will contain text, but they may 
+    also be generic containers for other items. We'll talk about text breaking and white space a little bit, 
+    how you can control where things break or where they don't and formatting. And then we'll talk about a 
+    variety of elements you can use to call out specific text or maybe you're using abbreviations, quotations, 
+    you're referencing other things, or you're including things like code snippets or keyboard input that you 
+    want somebody to type.
