@@ -1,0 +1,11 @@
+Summary
+    In this module we've looked at how HTML or the hypertext markup language allows us to create documents tha
+    we can share over the Web using the http protocol. We've seen that they have unique URIs or URLs that we 
+    can use to address a particular document and we'll talk more about those when we get into linking. And I've 
+    provided a few links here for you for tools that we've used in terms of the validator so you can take an 
+    HTML document either as a file or paste in the text or point to URL and validate that it matches with the 
+    DTD you've provided. And also a list of the valid DTDs that you can choose from and easy way for you to 
+    copy and paste those if your HTML editing tool doesn't provide that. We looked at the doctype, the head 
+    and the body, those core elements of an HTML document. And as we move through the course we'll see all the 
+    various things now that we can add to the body to create our content, to provide visual cues to people about
+    headings and lists, tables, charts, graphs and link these things together.
