@@ -1,5 +1,5 @@
 Introduction:
-    The module is about text elements. When you think about HTML documents, primarily they were focused on 
+    This module is about text elements. When you think about HTML documents, primarily they were focused on 
     text when originally intended. Now, today when you go to a website you end up seeing a lot of images 
     and flash videos and all sorts of things that aren't textural. But the focus of HTML was originally 
     documents, and document text. So we'll be talking about things such as headings, but also things like 
