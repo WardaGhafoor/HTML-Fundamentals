@@ -1,11 +1,12 @@
-Summary
-    In this module we've looked at how HTML or the hypertext markup language allows us to create documents tha
-    we can share over the Web using the http protocol. We've seen that they have unique URIs or URLs that we 
-    can use to address a particular document and we'll talk more about those when we get into linking. And I've 
-    provided a few links here for you for tools that we've used in terms of the validator so you can take an 
-    HTML document either as a file or paste in the text or point to URL and validate that it matches with the 
-    DTD you've provided. And also a list of the valid DTDs that you can choose from and easy way for you to 
-    copy and paste those if your HTML editing tool doesn't provide that. We looked at the doctype, the head 
-    and the body, those core elements of an HTML document. And as we move through the course we'll see all the 
-    various things now that we can add to the body to create our content, to provide visual cues to people about
-    headings and lists, tables, charts, graphs and link these things together.
+Introduction:
+    This module is about text elements. When you think about HTML documents, primarily they were focused on 
+    text when originally intended. Now, today when you go to a website you end up seeing a lot of images 
+    and flash videos and all sorts of things that aren't textural. But the focus of HTML was originally 
+    documents, and document text. So we'll be talking about things such as headings, but also things like 
+    block and inline elements, or this notion of "As I'm adding things to the document, how are they going 
+    to be handled and rendered within the document?" Some of those things will contain text, but they may 
+    also be generic containers for other items. We'll talk about text breaking and white space a little bit, 
+    how you can control where things break or where they don't and formatting. And then we'll talk about a 
+    variety of elements you can use to call out specific text or maybe you're using abbreviations, quotations, 
+    you're referencing other things, or you're including things like code snippets or keyboard input that you 
+    want somebody to type.
