@@ -1,11 +1,1 @@
-Block vs Inline
-     I'll put the divs on the same line and refresh, and I have the same output. These are block level elements.
 
-
-     Div will take its own block b/c it is by default block level container.
-    
-    
-    We can nested div insie a div but a div will not be nested inside a p tag.
-  
-
-    span tag can be used in p tag.
