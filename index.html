@@ -19,13 +19,25 @@
           <h4>Outline</h4>
 </div>
   <h2>Examples</h2>
-  <div id="examplecontainer">
+  <div id="examplecontainer">    
           <h3>White Spaces</h3>
-          <p>
+          <p>      <!--&nbsp; none breaking space tells the browser dont break at that particular piont
+                   you could breakat any other logical point all right, left or right int the stream of text-->
             The div, by default is going to be treated as a block level container and it's going to render, spanand 
-            then whatever fall it is, it's going to render on its own next kind of logical line or space in the
+            then&nbsp;whatever fall it is, it's going to render on its own next kind of logical line or space in the
             document.
+            <hr />
+            <pre>    <!--cares about white spaces-->
+              This is hikui.
+              This is boring.
+              Its too short.
+              <hr />  <!--horizontal row-->
+            </pre>
+            <!--It will be shown in single line because they are inline elemen we use break line tag to shift context on next linet-->
+            <span>first span <span> <br />
+            </span>second Span</span>
           </p>
+          <div>This how you write &lt;div&gt;</div>  <!--<div> character refrences-->
 
 </div>
 </body>
