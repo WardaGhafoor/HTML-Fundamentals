@@ -1,46 +1,49 @@
-<!DOCTYPE html PUBLIC>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
 	<title>Hello HTML</title>
  <meta charset="UTF-8" />
+<!-- <style>
+   acronym {
+     color: green;
+     }
+   .highlight {
+     text-decoration: underline;
+   }
+ </style> -->
 </head> 
 <body>
   <h1>HTML Fundamentals</h1>
   <h2>Overview</h2>
-  <div id="overviewcontainer">
-          <p>
-            The div, by default is going to be treated as a block level container and it's going to render, spanand 
-            then whatever fall it is, it's going to render on its own next kind of logical line or space in the
-            document.
-          </p>
-          <h3>Objectives</h3>
-          <h4>Outline</h4>
-</div>
-  <h2>Examples</h2>
-  <div id="examplecontainer">    
-          <h3>White Spaces</h3>
-          <p>      <!--&nbsp; none breaking space tells the browser dont break at that particular piont
-                   you could breakat any other logical point all right, left or right int the stream of text-->
-            The div, by default is going to be treated as a block level container and it's going to render, spanand 
-            then&nbsp;whatever fall it is, it's going to render on its own next kind of logical line or space in the
-            document.
-            <hr />
-            <pre>    <!--cares about white spaces-->
-              This is hikui.
-              This is boring.
-              Its too short.
-              <hr />  <!--horizontal row-->
-            </pre>
-            <!--It will be shown in single line because they are inline elemen we use break line tag to shift context on next linet-->
-            <span>first span <span> <br />
-            </span>second Span</span>
-          </p>
-          <div>This how you write &lt;div&gt;</div>  <!--<div> character refrences-->
-
-</div>
-</body>
-</html>
-  <div id="overview">
+         <div id="overviewContainer">
+              <p>
+                  <span id="htmlTag" class="highlight">
+                     <acronym title="Hypertext Markup Language">HTML</acronym> drives the web.</span>
+                     When you use <abbr title="Internet Explore">IE</abbr>, Chrome, Firefox, Safari
+                     or some other browser, many of us use web daily.
+                     In this course you will learn fundamental elements of creating web pages
+                     using HTML.
+              </p>
+              <p>
+                Not covered in this course is detailed information about 
+                <acronym title="Cascading Style Sheets">CSS</acronym>, javascript,
+                or <acronym title="Hypertext Transfer Protocol">HTTP</acronym>
+                as these are covered in detail later or either in super courses <sup>2,3</sup>.  
+              </p>
+                  <h3>Objectives</h3>
+                  <h4>Outline</h4>
+         </div>
+         <h2>A little history</h2>
+         <cite>Tim Berners Lee</cite> is credited with creating the world wide web and HTML.
+         <blockquote cite="http://www.w3.org/MarkUp/draft-ietf-iiir-html-0.1.txt">
+             The World Wide Web (W3) inititiative links related informaetion
+             throught the global. HTML provides one simple format for 
+             providing linked information.
+         </blockquote>
+         <h2>Examples</h2>
+  <div id="overview" >
     It is a <div>div</div>that has some contxt.
   </div>
   <div>
