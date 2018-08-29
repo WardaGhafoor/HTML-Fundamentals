@@ -1,11 +1,30 @@
-Block vs Inline
-     I'll put the divs on the same line and refresh, and I have the same output. These are block level elements.
+              Additional Text Element
+<sup><sub> Superscript and subcript
+  Built for document, resreach paper.It's for creating a notations and having powers, or calling out footnotes,
+  or endnotes that you want to allow somebody to go reference.
 
+<cite> cite work by another
+  A wrapper around aperson's name or text, where you want to cite work by another. Typically this will renderend
+  in the browser as some italicized text.
 
-     Div will take its own block b/c it is by default block level container.
-    
-    
-    We can nested div insie a div but a div will not be nested inside a p tag.
+<abbr><acronyme> Abbrivation and acronyme element
+  Provide Abbrivation and acronyme also expanded text that goes along with that as an attribute.This allows somebody 
+  usually to hover over the acronym or abbreviation you're using, and then we able to see the expanded out 
   
+<em><strong> indicates empahsis (consider stylesheet)
+  And the emphasis is typically rendered as italics and strong as bold. So you might make something a span and then 
+  use style sheets to apply that there.
 
-    span tag can be used in p tag.
+<code><samp> indicates code block and code output.
+
+<kbd><var> keyboard input and code variables.
+
+<blockquotes><q> block level and inline quote
+   Typically, an indented block level element with all the text in it. And the cue element is for inline 
+   quotes; so more of an inline element, much like a span, if you're in the middle of a sentence or you 
+   just want to call out that somebody is being quoted and put that text inside the cue element. Now, with these the 
+   block quote and the quote, you can also specify a URL to tie into where that citation is coming from. So 
+   you can indicate that this particular quote is coming from a particular document out on the web and give 
+   somebody the ability to reference that information. Depending on the browser, that may or may not render 
+   out in any discernible way, but it is good to provide that reference in there as you're quoting someone 
+   else's work.
