@@ -1,3 +1,4 @@
+
               Additional Text Element
 <sup><sub> Superscript and subcript
   Built for document, resreach paper.It's for creating a notations and having powers, or calling out footnotes,
